@@ -47,6 +47,6 @@ _free, sign up online_
 If you find anything to add/update then add it! I'll approve your pull request.
 
 - [Google Campus Events](https://www.campus.co/london/en/events) _anyone can book the space to host for free so quality/attendance varies_
-- [Meetups](www.meetups.com)
+- [Meetups](http://www.meetup.com/)
 
 For up to date event suggestions sign up to the mailing lists of the organisers above and they'll email them to you with a good amount of notice.
