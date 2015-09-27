@@ -23,6 +23,11 @@ _free, sign up online_
 
 - [Hack n Tell](http://www.meetup.com/London-Hack-and-Tell/)  (monthly, check meetups for next date)
 
+### [Silicon Milk Roundabout](https://www.siliconmilkroundabout.com/guides). 
+Job fair, free! Browse the list of companies in advance and work out which you'd like to speak to. Do your research on them first too as it'll come across a lot better! Sign up on their site. 
+- 14/10: Saturday - [Product, Marketing and Design Roles](https://www.siliconmilkroundabout.com/companies) 
+- 15/10: Sunday - [Engineering Roles](https://www.siliconmilkroundabout.com/companies)
+
 ### [Hipster-Hacker-Hustler Meetups]()
  - 2/10: [TechtoberFest](http://www.hipsters-hackers-hustlers.com/event/techtoberfest/) It's at a brewery. £20 cheapest ticket.
  - 13/10: [Co-founder Speedating](http://www.hipsters-hackers-hustlers.com/event/co-founder-dating-speed-pitching-25/) Free.
