@@ -22,6 +22,7 @@ _free, sign up online_
 ### [Entrepreneur First]()
 
 - [Hack n Tell](http://www.meetup.com/London-Hack-and-Tell/)  (monthly, check meetups for next date)
+- 8/10 Thursday - [Next one held at Stack Overflow offices](http://www.meetup.com/London-Hack-and-Tell/events/225697134/)
 
 ### [Silicon Milk Roundabout](https://www.siliconmilkroundabout.com/guides). 
 Job fair, free! Browse the list of companies in advance and work out which you'd like to speak to. Do your research on them first too as it'll come across a lot better! Sign up on their site. 
