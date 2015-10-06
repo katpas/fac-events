@@ -4,7 +4,6 @@ Event suggestions for FAC students to attend in September/October 2015
 ### [General Assembly Events](https://generalassemb.ly/education?format=events)  
 _a few coming up (all free but sign up online)_:
 
-- 28/09: [Future of news when everything is digital](https://generalassemb.ly/education/ga-quartz-present-the-future-of-news-in-a-digital-world/london/16512)
 - 12/10: [How tech is changing our food ecosystem](https://generalassemb.ly/education/how-technology-is-changing-our-food-ecosystem/london/17033)
 - 13/10: [Happy Hour Drinks at Interchange](https://generalassemb.ly/education/ga-interchange-happy-hour/london/16641)(brand new co-working space in Camden)
 - 15/10: [Lessons from Female Founders](https://generalassemb.ly/education/female-founders-tough-lessons-learned/london/17059)
@@ -30,7 +29,6 @@ Job fair, free! Browse the list of companies in advance and work out which you'd
 - 15/10: Sunday - [Engineering Roles](https://www.siliconmilkroundabout.com/companies)
 
 ### [Hipster-Hacker-Hustler Meetups]()
- - 2/10: [TechtoberFest](http://www.hipsters-hackers-hustlers.com/event/techtoberfest/) It's at a brewery. £20 cheapest ticket.
  - 13/10: [Co-founder Speedating](http://www.hipsters-hackers-hustlers.com/event/co-founder-dating-speed-pitching-25/) Free.
 
 ## Women specific events
@@ -39,7 +37,6 @@ Job fair, free! Browse the list of companies in advance and work out which you'd
 - [Tend to get some great speakers. Events listed here.](http://girlsintechuk.com/events/next-events/)
 
 ### [Geek Girl meetups](http://www.geekgirlmeetup.co.uk/)
-- 26/09: [All day conference! (£30)](https://www.eventbrite.co.uk/e/geek-girl-meetup-conference-2015-creativity-technology-and-the-future-tickets-17519663786)
 
 ### [Code First: Girls](http://www.codefirstgirls.org.uk/)
 
